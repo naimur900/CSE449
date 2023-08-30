@@ -1,36 +1,19 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/8634511572dhtvdxtvtgdr
 
 Unlisted YouTube video:
-http://youtube....
-
-Conference submitted paper / paper submission / login Link:
-https://easy....
+https://youtu.be/hDQPH9AXfFg
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Data Protection in the Cloud: A Critical Assessment  of Cryptographic Approaches
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
-
-Paper submission date (to workshop/conference):
-25 October 1999
-
-Paper submission ID: (received) from conference/workshop
-1341234
-
-Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
-
-Conference URL:
-http://confsite/...
+https://docs.google.com/presentation/d/1_zDLCL_wdRkawPHGA5b2Qt-fhZesRTs_/edit?usp=sharing&ouid=107383323276522896434&rtpof=true&sd=true
 
 Group Number:
-0
+4
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+20101284 Naimur Rahman
+20101286 Ha-mim Ahmad
+20101372 Kazi Nazibul Islam
